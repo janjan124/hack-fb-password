@@ -6,7 +6,7 @@ $ pkg install git
 
 $ pkg install python2
 
-$ git clone https://github.com/11992288FZ/hack-fb-password
+$ git clone https://github.com/ellainerose.onas/hack-fb-password
 
 $ cd hack-fb-password
 
